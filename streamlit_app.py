@@ -91,20 +91,20 @@ st.markdown('''
 ## Education
 ''')
 
-txt('**Doctor of Philosophy** (Medical Technology), *Mahidol University*, Thailand',
-'2002-2006')
+txt('**Doctor of Philosophy in Chemistry** (cand.), *University of Tartu*, Estonia',
+'2024-2028')
 st.markdown('''
-- GPA: `3.89`
-- Research thesis entitled `Computer-aided molecular design for biological and chemical applications : Quantum chemical and machine learning approach`.
-- Received Royal Golden Jubilee Ph.D. Scholarship of `2.152 million THB` covering tuition and stipend.
-- Thesis awarded `1st` Prize by the National Research Council of Thailand.
+- Junior Research Fellow
+- Research thesis entitled `Redefining validation process of chromatographic methods (ValChrom)`.
+- To automate validation process using the combined interdisciplinary strength of chemistry, software development and complex statistical approaches (design of experiment).
+- Supervisors: Asko Laaniste, Koit Herodes, and Ivo Leito
 ''')
 
-txt('**Bachelors of Science** (Biological Science), *Mahidol University International College*, Thailand',
-'1998-2002')
+txt('**Master of Science in Chemistry**, *De La Salle University, Manila*, Philippines',
+'2016-2023')
 st.markdown('''
-- GPA: `3.65`
-- Graduated with First Class Honors.
+- GPA: `2.56`
+- Research thesis entitles `Ionomics-based Machine Learning Classification Model to Discriminate the Geographical Origin of Philippine Carabao Mango (*Mangifera indica L.*)`.
 ''')
 
 #####################
