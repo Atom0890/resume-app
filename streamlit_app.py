@@ -7,11 +7,11 @@ with open("style.css") as f:
 #####################
 # Header 
 st.write('''
-# Chanin Nantasenamat, Ph.D.
+# Christian D. Laurio, Ph.D. (candidate)
 ##### *Resume* 
 ''')
 
-image = Image.open('dp.png')
+image = Image.open('CV_dp.jpg')
 st.image(image, width=150)
 
 st.markdown('## Summary', unsafe_allow_html=True)
